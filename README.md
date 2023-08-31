@@ -1,40 +1,39 @@
-# Σχολική Εφαρμογή Διαχείρισης Καθηγητών
+# School Teacher Management Application
 
-Καλωσήρθατε στο αποθετήριο της σχολικής εφαρμογής διαχείρισης καθηγητών!
+Welcome to the repository of the school teacher management application!
 
-## Περίληψη
+## Summary
 
-Η σχολική εφαρμογή αποτελεί ένα desktop περιβάλλον που επιτρέπει τη διαχείριση καθηγητών μέσω σύνδεσης με βάση δεδομένων MySQL. Χρήστες μπορούν να προσθέτουν, 
-ενημερώνουν και διαγράφουν καθηγητές, καθώς και να αναζητούν βάση ονόματος ή επιθέτου.
+The school application is a desktop environment that allows the management of teachers through a connection to a MySQL database. Users can add, update, and delete teachers, as well as search based on first or last names.
 
-## Χαρακτηριστικά
+## Features
 
-- Σύνδεση σε Βάση Δεδομένων: Η εφαρμογή συνδέεται με μια βάση δεδομένων MySQL για την αποθήκευση και ανάκτηση των δεδομένων καθηγητών.
+- Database Connection: The application connects to a MySQL database for storing and retrieving teacher data.
 
-- Διαχείριση Καθηγητών: Οι χρήστες μπορούν να προσθέτουν νέους καθηγητές, να ενημερώνουν τα στοιχεία τους και να τους διαγράφουν από τη βάση.
+- Teacher Management: Users can add new teachers, update their information, and delete them from the database.
 
-- Αναζήτηση Καθηγητών: Υπάρχει η δυνατότητα αναζήτησης καθηγητών βάση ονόματος ή επιθέτου, προκειμένου να βρείτε γρήγορα τα απαιτούμενα δεδομένα.
+- Teacher Search: There's the ability to search for teachers based on first or last names, allowing quick access to the required information.
 
-- Δοκιμαστικά Σενάρια: Η εφαρμογή περιλαμβάνει δοκιμαστικά σενάρια (tests) για τα επίπεδα DAO, Model και Service, προκειμένου να επαληθεύσετε την ορθή λειτουργία του κώδικα.
+- Test Scenarios: The application includes test scenarios for DAO, Model, and Service levels, to verify the proper functionality of the code.
 
-## Εγκατάσταση και Εκτέλεση
+## Installation and Execution
 
-1. Εγκαταστήστε τις απαιτούμενες εξαρτήσεις και το περιβάλλον Maven.
+1. Install the required dependencies and the Maven environment.
 
-2. Κατεβάστε τον πηγαίο κώδικα της εφαρμογής από το αποθετήριο.
+2. Download the application's source code from the repository.
 
-3. Αλλάξτε τις ρυθμίσεις της βάσης δεδομένων (URL, όνομα χρήστη, κωδικός) στο αρχείο `DBUtil`.
+3. Change the database settings (URL, username, password) in the `DBUtil` file.
 
-4. Εκτελέστε το project με την εντολή `mvn spring-boot:run`.
+4. Run the project using the command `mvn spring-boot:run`.
 
-## Άδεια
+## License
 
-Αυτή η εφαρμογή χρησιμοποιεί την άδεια [MIT](LICENSE), επιτρέποντας την ελεύθερη χρήση, αναδιανομή και τροποποίηση του κώδικα.
+This application is licensed under the [MIT License](LICENSE), allowing free use, distribution, and modification of the code.
 
-## Επικοινωνία
+## Contact
 
-Για οποιεσδήποτε ερωτήσεις, παρατηρήσεις ή προβλήματα, μη διστάσετε να επικοινωνήσετε μαζί μας στο [email](dimthoma@aueb.gr).
+For any questions, comments, or issues, feel free to contact us at [email](dimthoma@aueb.gr).
 
 ---
 
-Ευχαριστούμε που επισκεφθήκατε το αποθετήριο της σχολικής εφαρμογής διαχείρισης καθηγητών. Καλή χρήση!
+Thank you for visiting the repository of the school teacher management application. Enjoy your use!
