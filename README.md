@@ -32,8 +32,7 @@ This application is licensed under the [MIT License](LICENSE), allowing free use
 
 ## Contact
 
-For any questions, comments, or issues, feel free to contact us
-Created by DimThom - [GitHub Profile](https://github.com/DimThom)
+For any questions, comments, or issues, feel free to contact us - [GitHub Profile](https://github.com/DimThom)
 
 ---
 
