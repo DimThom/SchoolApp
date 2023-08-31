@@ -32,8 +32,10 @@ This application is licensed under the [MIT License](LICENSE), allowing free use
 
 ## Contact
 
-For any questions, comments, or issues, feel free to contact us at [email](dimthoma@aueb.gr).
+For any questions, comments, or issues, feel free to contact us
 
 ---
 
 Thank you for visiting the repository of the school teacher management application. Enjoy your use!
+---
+Created by DimThom - [GitHub Profile](https://github.com/DimThom)
